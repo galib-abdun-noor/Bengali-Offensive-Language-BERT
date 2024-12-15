@@ -15,7 +15,7 @@ We evaluate both traditional machine learning (ML) models such as Logistic Regre
 
 ## Dataset
 
-The TB-OLID dataset contains 5,000 Facebook comments in transliterated Bangla, labeled as offensive or non-offensive, with subcategories for targeted and untargeted offenses. The dataset is balanced with offensive and non-offensive comments and includes code-mixed and transliterated text challenges.
+The TB-OLID dataset contains 5,000 Facebook comments in transliterated Bangla, labeled as offensive or non-offensive, with subcategories for targeted and untargeted offenses. The dataset is balanced with offensive and non-offensive comments and includes code-mixed and transliterated text challenges. The dataset is required for training and testing the models. You can download the TB-OLID dataset from the following link: - [TB-OLID Dataset](https://github.com/your-dataset-link) Make sure the dataset is placed in the correct directory (./data).
 
 ## Project Setup
 
